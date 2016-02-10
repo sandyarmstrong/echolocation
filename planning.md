@@ -52,3 +52,8 @@ Daddy's questions:
   - If you choose a female bat you have babies and get to start over again when
     you reach the goal.
   - If you choose a male bat you don't get to start over again.
+
+
+## Game Style
+
+Daddy suggests 2D, top-down. Stewart insists on 3D from the bat's point of view.
