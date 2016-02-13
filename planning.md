@@ -15,6 +15,8 @@ According to Stewart:
   - Your first adventure is a test.
   - It's a test to see if you can dodge predators.
   - You see a red "X" coming up to represent predators.
+    * Air predators: owls and hawks; fly low or hide in hollow trees to escape.
+    * Ground predators: raccoons and snakes; fly high to escape.
 * How you fly:
   - You use `W` to fly forward.
   - `S` to fly backward.
@@ -57,3 +59,10 @@ Daddy's questions:
 ## Game Style
 
 Daddy suggests 2D, top-down. Stewart insists on 3D from the bat's point of view.
+
+After some drawing, we have settled on a 2D side-scroller for the first version.
+Daddy would like to experiment with MonoGame to make it cross-platform.
+
+Art style will be forest at night. You can only easily see bugs and predators
+when echolocation is active. Predators will make noise, which will cause a red
+flash on the part of the screen where they are. Echolocation will reveal them.
